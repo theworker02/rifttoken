@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/rifttoken",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Rift host/token network string helpers for config audits.",
+  "bin": {
+    "rifttoken": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/rifttoken.git"
+  },
+  "homepage": "https://theworker02.github.io/rifttoken/",
+  "keywords": [
+    "rift",
+    "token",
+    "net",
+    "cli",
+    "toolkit"
+  ]
+}
